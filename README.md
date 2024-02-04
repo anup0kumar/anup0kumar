@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup0kumar&label=Profile%20views&color=0e75b6&style=flat" alt="anup0kumar" /> </p>
 
-- 🔭 I’m currently working on **multi vendor website**
+- 🔭 I’m currently working on **Enhancing DSA Skills**
 
 - 👯 I’m currently learning **DS/ML**
 
