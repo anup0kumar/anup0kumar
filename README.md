@@ -8,7 +8,7 @@
 
 - 👯 I’m currently learning **DS/ML**
 
-- 💬 Ask me about **HTML,CSS,JS,DSA,ML**
+- 💬 Ask me about **HTML,CSS,JS,DSA,ML and DL**
 
 - 📫 How to reach me **anup8804979120@gmail.com**
 
