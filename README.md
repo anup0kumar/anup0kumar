@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup0kumar&label=Profile%20views&color=0e75b6&style=flat" alt="anup0kumar" /> </p>
 
-- 🔭 I’m currently working on **Enhancing DSA Skills**
+- 🔭 I’m currently working on **Enhancing Data Analytics Skills**
 
 - 👯 I’m currently learning **DS/ML**
 
-- 💬 Ask me about **HTML,CSS,JS,DSA,ML and DL**
+- 💬 Ask me about **SQL, Power Bi, Business Concepts, MS-Excel ,DSA,ML and DL**
 
-- 📫 How to reach me **anup8804979120@gmail.com**
+- 📫 How to reach me **anup914gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
